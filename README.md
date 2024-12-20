@@ -1,1 +1,1 @@
-Код в Counter.s.col
+Код в script/Counter.s.sol
